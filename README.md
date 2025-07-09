@@ -1,6 +1,6 @@
 # 🌟 Vignan Child Therapy Centre  
 **A 24-hour Hackathon project for an SEO-optimized child therapy website**  
-**Preview -https://vignanchildthearpy.netlify.app/
+**Preview -https://childrntherapy.netlify.app/
 
 ![Project Banner](images/ban.png)  
 
